@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0980b000.chunk.js",
+    "main.js.map": "/static/js/main.0980b000.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfea5865.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfea5865.js.map",
+    "static/css/2.527b8545.chunk.css": "/static/css/2.527b8545.chunk.css",
+    "static/js/2.019205bd.chunk.js": "/static/js/2.019205bd.chunk.js",
+    "static/js/2.019205bd.chunk.js.map": "/static/js/2.019205bd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e85a748b076e1a6e57e78767f4734429.js": "/precache-manifest.e85a748b076e1a6e57e78767f4734429.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.527b8545.chunk.css.map": "/static/css/2.527b8545.chunk.css.map",
+    "static/js/2.019205bd.chunk.js.LICENSE.txt": "/static/js/2.019205bd.chunk.js.LICENSE.txt",
+    "static/js/main.0980b000.chunk.js.LICENSE.txt": "/static/js/main.0980b000.chunk.js.LICENSE.txt",
+    "static/media/machinery.jpg": "/static/media/machinery.50f14d3b.jpg",
+    "static/media/plastisurca.png": "/static/media/plastisurca.f9eefa6b.png",
+    "static/media/rosefield.jpg": "/static/media/rosefield.e6109294.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfea5865.js",
+    "static/css/2.527b8545.chunk.css",
+    "static/js/2.019205bd.chunk.js",
+    "static/js/main.0980b000.chunk.js"
+  ]
+}

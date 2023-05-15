@@ -1,0 +1,28 @@
+{
+  "name": "CRMNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "full-icu": "^1.3.4",
+    "google-auth-library": "^6.1.3",
+    "heroku-ssl-redirect": "^0.1.1",
+    "node-schedule": "^2.0.0",
+    "nodemailer": "^6.6.0",
+    "path": "^0.12.7",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5"
+  },
+  "engines": {
+    "node": "12.18.2"
+  }
+}
